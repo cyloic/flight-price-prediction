@@ -81,3 +81,8 @@ License
 
 This project is licensed under the MIT License.
 
+🚀 Live Demo: Flight Price Prediction App 🎥
+
+Check out this live demo showcasing our Flutter mobile app making real-time flight price predictions, FastAPI backend handling requests via Swagger UI, and a breakdown of our machine learning model performance. Watch how Linear Regression, Decision Trees, and Random Forest compare, and see why we chose Random Forest for deployment!
+
+🔗 Watch now: [[YouTube Link](https://www.youtube.com/watch?v=MvD8pP9v0lU)]
